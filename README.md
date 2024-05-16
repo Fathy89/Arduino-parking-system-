@@ -6,17 +6,23 @@ This project is meant to  make parking process atomically and easy with using so
 ### Prerequisites 
 To use this project, you will need the following:
 
-<ul>
-  <li>An Arduino board (such as the Uno or Nano)</li>
-  <li>Jumper Wires</li>
-  <li>LCD (16*2 or I2c)</li>
-  <li>Ir Sensor</li>
-  <li>ultrasonic Sensor</li>
-  <li>Ldr</li>
-  <li>Servo Motor</li>
-  <li>Leds</li>
-  <li>Resistors</li>
-  <li>Potentiometer (if you will use the 16*2 lcd) </li>
-  <il> A computer with the Arduino IDE installed</il>
-  <li>Bread board </li>
-</ul>
+
+  - An Arduino board (such as the Uno or Nano)
+  - Jumper Wires
+  - LCD (16*2 or I2c)
+  - Ir Sensor
+  - ultrasonic Sensor
+  - Ldr
+  - Servo Motor
+  - Leds
+  - Resistors
+  - Potentiometer (if you will use the 16*2 lcd) 
+  - A computer with the Arduino IDE installed
+  - Bread board 
+### Installing
+
+1. Connect the Sensor , Lcd  and Servo Motor  to the Arduino board. Refer to the schematic in the "schematic.png" file for the pinout.
+
+2. Open the "parkingsys.ino" file in the Arduino IDE.
+
+3. Upload the code to the Arduino board.
