@@ -9,7 +9,7 @@ To use this project, you will need the following:
 
   - An Arduino board (such as the Uno or Nano)
   - Jumper Wires
-  - LCD (16*2 or I2c)
+  - LCD (16*2 or I2c Model)
   - Ir Sensor
   - ultrasonic Sensor
   - Ldr
