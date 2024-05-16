@@ -15,9 +15,8 @@ To use this project, you will need the following:
   <li>Ldr</li>
   <li>Servo Motor</li>
   <li>Leds</li>
-  <li>Rsistors</li>
+  <li>Resistors</li>
   <li>potentiometer (if you will use the 16*2 lcd) </li>
+  <il>A computer with the Arduino IDE installed</il>
   <li>bread board </li>
-  <il>A computer with the Arduino IDE installed</il>
-  <il>A computer with the Arduino IDE installed</il>
 </ul>
