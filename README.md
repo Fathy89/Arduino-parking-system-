@@ -26,3 +26,17 @@ To use this project, you will need the following:
 2. Open the "parkingsys.ino" file in the Arduino IDE.
 
 3. Upload the code to the Arduino board.
+## Usage 
+watch this veido to know  how to  use it 
+
+## Modifying the Code
+
+The code is well-commented and easy to understand, so you can modify it to suit your needs. For example, you can change the number of digits on the seven segment display, or add additional functionality.
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+## Acknowledgments
+- Thanks to the Arduino community for their support and contributions.
