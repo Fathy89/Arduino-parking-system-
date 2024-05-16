@@ -3,7 +3,7 @@ This project is meant to  make parking process atomically and easy with using so
 
 ## Getting Started
 
-<h5>Prerequisites </h5>
+### Prerequisites 
 To use this project, you will need the following:
 
 <ul>
@@ -18,5 +18,6 @@ To use this project, you will need the following:
   <li>Rsistors</li>
   <li>potentiometer (if you will use the 16*2 lcd) </li>
   <li>bread board </li>
+  <il>A computer with the Arduino IDE installed</il>
   <il>A computer with the Arduino IDE installed</il>
 </ul>
