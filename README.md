@@ -27,7 +27,7 @@ To use this project, you will need the following:
 
 3. Upload the code to the Arduino board.
 ## Usage 
-watch this veido to know  how to  use it 
+Watch this video to know how to use it.
 
 ## Modifying the Code
 
