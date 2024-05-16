@@ -19,6 +19,4 @@ To use this project, you will need the following:
   <li>potentiometer (if you will use the 16*2 lcd) </li>
   <li>bread board </li>
   <il>A computer with the Arduino IDE installed</il>
-
-
 </ul>
