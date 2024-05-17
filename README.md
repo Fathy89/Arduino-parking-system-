@@ -31,7 +31,7 @@ Watch this video to know how to use it.
 
 ## Modifying the Code
 
-The code is well-commented and easy to understand, so you can modify it to suit your needs. For example, you can change the number of digits on the seven segment display, or add additional functionality.
+The code is well-commented and easy to understand, so you can modify it to suit your needs.
 
 
 ## License
