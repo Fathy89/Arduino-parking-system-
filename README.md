@@ -21,7 +21,7 @@ To use this project, you will need the following:
   - Bread board 
 ### Installing
 
-1. Connect the Sensor , Lcd  and Servo Motor  to the Arduino board. Refer to the schematic in the "schematic.png" file for the pinout.
+1. Connect the Sensor , Lcd  and Servo Motor  to the Arduino board. Refer to the   "Fantastic Uusam-Hillar (1).png" file for the pinout.
 
 2. Open the "parkingsys.ino" file in the Arduino IDE.
 
